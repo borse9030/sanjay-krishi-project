@@ -18,7 +18,7 @@ export const products: Product[] = [
     name: 'NPK 20:20:20 खत',
     category: 'खते',
     price: 850,
-    image: 'https://images.pexels.com/photos/4033325/pexels-photo-4033325.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image: "../models/71pHjzWy80L._AC_UF1000,1000_QL80_.jpg",
     description: 'सर्व पिकांसाठी संतुलित पोषक तत्वांचे मिश्रण',
     features: [
       'नत्र, स्फुरद आणि पालाश समान प्रमाणात',
@@ -35,7 +35,7 @@ export const products: Product[] = [
     name: 'यूरिया खत',
     category: 'खते',
     price: 280,
-    image: 'https://images.pexels.com/photos/4033325/pexels-photo-4033325.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image: "../models/UREA_0.png",
     description: 'नत्राचे प्रमुख स्रोत, पानांची वाढ वाढवते',
     features: [
       '४६% नत्र सामग्री',
@@ -52,7 +52,7 @@ export const products: Product[] = [
     name: 'DAP खत',
     category: 'खते',
     price: 1350,
-    image: 'https://images.pexels.com/photos/4033325/pexels-photo-4033325.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image: "../models/18-46-0-(DAP)_1.png",
     description: 'स्फुरदाचे उत्तम स्रोत, मुळांची वाढ',
     features: [
       '१८% नत्र आणि ४६% स्फुरद',
@@ -71,7 +71,7 @@ export const products: Product[] = [
     name: 'कॉन्फिडॉर इन्सेक्टिसाईड',
     category: 'कीटकनाशके',
     price: 320,
-    image: 'https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image: "../models/insecticide-21-.avif",
     description: 'चोखणारे आणि चावणारे कीटकांपासून संरक्षण',
     features: [
       'इमिडाक्लोप्रिड सक्रिय घटक',
@@ -121,10 +121,10 @@ export const products: Product[] = [
   // बियाणे (Seeds)
   {
     id: 'seed-1',
-    name: 'BT कापूस बियाणे',
+    name: 'राशी आरसीएच ६५९',
     category: 'बियाणे',
-    price: 950,
-    image: 'https://images.pexels.com/photos/1327405/pexels-photo-1327405.jpeg?auto=compress&cs=tinysrgb&w=300',
+    price: 864,
+    image: "../models/new-product.jpeg",
     description: 'उच्च उत्पादन देणारे BT कापूस हायब्रिड',
     features: [
       'बॉलवर्म प्रतिरोधी',
@@ -172,10 +172,10 @@ export const products: Product[] = [
   },
   {
     id: 'seed-4',
-    name: 'ज्वारी बियाणे CSH-16',
+    name: 'राशी MAGIC',
     category: 'बियाणे',
     price: 380,
-    image: 'https://images.pexels.com/photos/1327405/pexels-photo-1327405.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image:"../models/AGS-S-3013_1.webp",
     description: 'पावसाळी हंगामासाठी उत्तम ज्वारी वाण',
     features: [
       'खरीप हंगामासाठी योग्य',
