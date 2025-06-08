@@ -88,7 +88,7 @@ export const products: Product[] = [
     name: 'नीम तेल स्प्रे',
     category: 'कीटकनाशके',
     price: 180,
-    image: 'https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image: "../models/img_617469363_1576305289.jpg",
     description: 'नैसर्गिक कीटकनाशक, पर्यावरणास हानिरहित',
     features: [
       '१००% नैसर्गिक',
@@ -105,7 +105,7 @@ export const products: Product[] = [
     name: 'बायर फंगीसाईड',
     category: 'कीटकनाशके',
     price: 450,
-    image: 'https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image: "../models/1-litre-upl-tinto-biostimulant.jpg",
     description: 'बुरशीजन्य रोगांपासून संपूर्ण संरक्षण',
     features: [
       'मॅन्कोझेब सक्रिय घटक',
@@ -141,7 +141,7 @@ export const products: Product[] = [
     name: 'हायब्रिड टोमॅटो बियाणे',
     category: 'बियाणे',
     price: 2800,
-    image: 'https://images.pexels.com/photos/1327405/pexels-photo-1327405.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image: "../models/product-jpeg.jpeg",
     description: 'रोग प्रतिरोधी हायब्रिड टोमॅटो वाण',
     features: [
       'जास्त उत्पादन',
@@ -158,7 +158,7 @@ export const products: Product[] = [
     name: 'हायब्रिड मिरची बियाणे',
     category: 'बियाणे',
     price: 1200,
-    image: 'https://images.pexels.com/photos/1327405/pexels-photo-1327405.jpeg?auto=compress&cs=tinysrgb&w=300',
+    image:"../models/5017648671748001749.webp",
     description: 'तिखट हायब्रिड मिरची, बाजारात चांगली मागणी',
     features: [
       'तिखटपणा जास्त',
