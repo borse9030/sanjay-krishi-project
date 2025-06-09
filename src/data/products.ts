@@ -85,7 +85,7 @@ export const products: Product[] = [
   },
   {
     id: 'pest-2',
-    name: 'नीम तेल स्प्रे',
+    name: 'कोराजेन एफएमसी',
     category: 'कीटकनाशके',
     price: 180,
     image: "../models/img_617469363_1576305289.jpg",
@@ -102,7 +102,7 @@ export const products: Product[] = [
   },
   {
     id: 'pest-3',
-    name: 'बायर फंगीसाईड',
+    name: 'टिंटो upl',
     category: 'कीटकनाशके',
     price: 450,
     image: "../models/1-litre-upl-tinto-biostimulant.jpg",
@@ -138,7 +138,7 @@ export const products: Product[] = [
   },
   {
     id: 'seed-2',
-    name: 'हायब्रिड टोमॅटो बियाणे',
+    name: 'यूएस AGREESEED',
     category: 'बियाणे',
     price: 2800,
     image: "../models/product-jpeg.jpeg",
@@ -155,7 +155,7 @@ export const products: Product[] = [
   },
   {
     id: 'seed-3',
-    name: 'हायब्रिड मिरची बियाणे',
+    name: 'मोक्ष केसीएच',
     category: 'बियाणे',
     price: 1200,
     image:"../models/5017648671748001749.webp",
